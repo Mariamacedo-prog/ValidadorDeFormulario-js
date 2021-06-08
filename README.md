@@ -1,6 +1,6 @@
 # Validador simples de formulário com JS
 
-![image](https://user-images.githubusercontent.com/69858181/120947009-c860ea00-c714-11eb-8df4-ab5299d6baf2.png)
+![image](https://user-images.githubusercontent.com/69858181/121207427-a6b84d80-c84f-11eb-94e4-66b8aa64ace5.png)
+![image](https://user-images.githubusercontent.com/69858181/121207516-ba63b400-c84f-11eb-994f-a7c305e31659.png)
+![image](https://user-images.githubusercontent.com/69858181/121207565-c485b280-c84f-11eb-9420-6eeca73dbdae.png)
 
- ![image](https://user-images.githubusercontent.com/69858181/120947059-efb7b700-c714-11eb-8aa8-693cc32f718f.png)
- ![image](https://user-images.githubusercontent.com/69858181/120947070-fa724c00-c714-11eb-860c-3124f7b7f6a6.png)
